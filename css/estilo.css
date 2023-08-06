@@ -223,6 +223,9 @@ select{
 #resultado H3{
     color:#DD22D7;
 }
+#resultado p{
+    font-size: 140%;
+}
 #volveraempezar{
     font-size: 150%;
 }
